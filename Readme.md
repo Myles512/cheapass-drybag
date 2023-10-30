@@ -5,7 +5,7 @@ Cereal boxes are a great idea for filament storage, but I am cheap and have way 
 
 ![Render of the cheapass drybag](https://raw.githubusercontent.com/Myles512/cheapass-drybag/main/Images/render.png)
 
-* Screw a [PC4-M10 bowden coupler](https://www.3dlabtech.ca/product/pneumatic-bowden-coupler-pc4-m10/) into the top of the guide.
+* Screw a [PC4-M10 bowden coupler](https://www.3dlabtech.ca/product/pneumatic-bowden-coupler-pc4-m10/) or [PC4-M6 bowden coupler](https://www.3dlabtech.ca/product/pneumatic-bowden-coupler-pc4-m6/) into the top of the guide.
 * Insert a short length of 4mm OD ptfe tubing through the coupler and desiccant storage chamber.
 * Attach turntable top and bottom with a [608 skateboard bearing](https://www.3dlabtech.ca/product/s608zz-bearing-abec-7-pack-of-10/).
 * Load some desiccant or molecular sieve into the storage chamber and screw the lid on.
