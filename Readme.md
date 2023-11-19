@@ -17,6 +17,8 @@ Cereal boxes are a great idea for filament storage, but I am cheap and have way 
 * Place the bag on its side with the spool sitting on the turntable.
 * Feed the filament into your printer and print!
 
+Update: I've added a version with a spool guide as I found spools that have cutouts in the walls (most spools) had a tendency to catch on the desiccant chamber when a sufficient amount of filament had been used.
+
 The bagged spools should fit fairly well into most existing filament storage (eg. reprack), and seem to sit nicely on top of enclosed printers as long as the top panel doesn't melt the bag.
 ![drybag sitting on top of a printer](https://raw.githubusercontent.com/Myles512/cheapass-drybag/main/Images/drybag.jpg)
 
